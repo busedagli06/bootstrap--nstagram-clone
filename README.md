@@ -1,2 +1,2 @@
-# bootstrap--nstagram-clone
+# bootstrap-instagram-clone
 Bootstrap Instagram Clone
